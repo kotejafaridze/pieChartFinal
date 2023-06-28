@@ -7,11 +7,11 @@ private final static String UserName = "root";
 private final static String Password = null;
 
 
-<dependency>
+
     <groupId>mysql</groupId>
     <artifactId>mysql-connector-java</artifactId>
     <version>8.0.31</version>
-</dependency>
+
 
 
 CREATE TABLE products (
